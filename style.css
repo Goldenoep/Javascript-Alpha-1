@@ -10,7 +10,6 @@ h1 {
 
     -webkit-user-select: none; /*both for compatability*/
     user-select: none; /*both for compatability*/
-
 }
 ul {
     display: grid;
